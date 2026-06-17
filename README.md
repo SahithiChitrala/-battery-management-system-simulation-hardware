@@ -23,7 +23,7 @@ Major project (GNITS, 2024) — designed and implemented a BMS for a 6S, 22V lit
 
 <img width="811" height="462" alt="image" src="https://github.com/user-attachments/assets/89c1e377-80d6-4985-88b9-1ae33288b460" />
 
-
+insert
 ### Output Characteristics
 
 
